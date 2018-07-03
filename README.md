@@ -11,4 +11,4 @@ make
 ```
 # Usage
 
-```gnome-keyring-password NAME
+```gnome-keyring-password NAME```
